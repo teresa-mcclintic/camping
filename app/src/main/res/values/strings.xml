@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Camping Needs</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+
+    <string name="enter_item">enter_item</string>
+    <string name="hint_item">Enter item</string>
+    <string name="hint_qty">Quantity</string>
+    <string name="hint_color">Color</string>
+    <string name="hint_size">Size</string>
+    <string name="save_button">Save</string>
+    <string name="todo">TODO</string>
+    <string name="title">Enter Item</string>
+</resources>
